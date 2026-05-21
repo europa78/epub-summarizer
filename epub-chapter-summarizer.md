@@ -83,7 +83,7 @@ Read the chapter in full. If it exceeds your context budget, read it in sections
 
 ## Step 5: Produce the summary
 
-Follow the **Output Format** rules below. Default to detailed and analytic. Default length: 600–1200 words per chapter, scaled to chapter substance.
+Follow the **Output Format** rules below. Default to detailed and analytic. Default length: ~700 words per chapter, scaled to chapter substance.
 
 ## Step 6 (conditional): Enrich with hyperlinks
 
@@ -136,10 +136,10 @@ Lead with a short framing paragraph naming what changes between the chapters, th
 
 ## Length calibration
 
-- Light chapter (recap, transition, short): 400–600 words
-- Standard chapter (one core argument): 700–1000 words
-- Heavy chapter (multiple sections, dense argument): 1000–1500 words
-- Whole-book pass: scale each chapter down to ~300–500 words, plus a 200-word opening overview
+- Light chapter (recap, transition, short): 500–650 words
+- Standard chapter (one core argument): ~700 words
+- Heavy chapter (multiple sections, dense argument): 700–850 words
+- Whole-book pass: scale each chapter down to ~700 words, plus a 200-word opening overview
 
 ## Style rules
 
